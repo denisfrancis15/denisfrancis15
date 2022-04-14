@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denisfrancis15
-- 👀 I’m interested in JavaScript & Python.
+- 👀 I’m interested in JavaScript, C++ & Python.
 - 🌱 I’m currently learning the both.
 - 💞️ I’m looking to collaborate in open source projects.
 - 📫 DM me for the collaboration.
